@@ -1,0 +1,7 @@
+{
+  "name": "The Literary Oracle",
+  "description": "An intelligent, empathetic book recommendation engine that analyzes your reading personality to suggest the perfect next read.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
